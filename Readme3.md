@@ -34,6 +34,8 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 3.I would like to thank the course co-ordinators too to help me out with this course.
 
-The pdsnd_github was forked and cloned from the following link upon request-
+The pdsnd_github was forked from the following link upon request-
 
-https://github.com/udacity/pdsnd_github
+>> https://github.com/udacity/pdsnd_github
+
+The forked link was saved in https://github.com/AnuragC09/pdsnd_github and later cloned to the local repository on my machine.  
