@@ -30,6 +30,8 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 I would like to thank my mentors Oscar Mauricio and Eugen B, who helped during the course of the project. 
 
+I would also like to thank Udacity to help me complete this course.
+
 The pdsnd_github was forked and cloned from the following link upon request-
 
 https://github.com/udacity/pdsnd_github
