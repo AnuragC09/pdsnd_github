@@ -32,6 +32,8 @@ I would like to thank my mentors Oscar Mauricio and Eugen B, who helped during t
 
 I would also like to thank Udacity to help me complete this course.
 
+I would like to thank the course co-ordinators too to help me out with this course.
+
 The pdsnd_github was forked and cloned from the following link upon request-
 
 https://github.com/udacity/pdsnd_github
